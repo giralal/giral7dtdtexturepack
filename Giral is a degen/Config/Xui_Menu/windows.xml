@@ -1,0 +1,7 @@
+<config>
+<set xpath="/windows/window[@name='mainMenuLogo']">
+		<texture depth="3" color="[white]" texture="@modfolder:/UI/MainMenu/7DTD_logo.png" name="gameLogo" anchor_left="#cam,0.5,-20" anchor_bottom="#cam,0.5,70" anchor_right="#cam,0.5,-20" anchor_top="#cam,0.5,490" pivot="center" keep_aspect_ratio="BasedOnHeight" aspect_ratio="2.3" />
+		<label name="Aheago" pos="230, 115" depth="0" size="250,33" text="V4.04" font_size="42" effect="outline" color="[white]" justify="center" />
+	</set>
+
+</config>
