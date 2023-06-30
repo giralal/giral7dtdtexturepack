@@ -9,3 +9,4 @@
 Alpha 21 b324 Stable (June 29th 12:34 EDT release)
 
 ### Note: This is my first time modding 7 days to die sooooooo don't expect much from this.
+### Another note: I am not going to work on this like ever so I prob won't get around to actually making anything meaningfull 👍
